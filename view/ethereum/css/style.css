@@ -1,0 +1,16 @@
+:root {
+    --cor-criptomoeda: #0000cc;
+}
+
+.icon-cripto {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    border: 1px solid #fff;
+}
+
+.cartao-de-credito i {
+    color: #f0f0f0;
+    font-size: 45px;
+    transform: rotate(20deg);
+}
